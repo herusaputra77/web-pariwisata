@@ -19,7 +19,7 @@ Menggunakan Framework Laravel varsi 9.
 
 **Release date : 21 Mei 2024**
 
-> Sistem Informasi Akademik Sekolah merupakan project open source yang dibuat oleh Heru Saputra. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
+> Sistem Informasi Pariwisata (SIPAR) open source yang dibuat oleh Heru Saputra. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
 
 ---
 
