@@ -4,7 +4,7 @@
 
 Web Sistem Informasi Pariwisata yang dibuat oleh <a href="https://github.com/herusaputra77"> Heru Saputra </a>. **Sistem Informasi Informasi yang dapat menampilkan objek wisata pada suatu daerah.**
 
-## Fitur apa saja yang tersedia di Sistem Informasi Akademik Sekolah?
+## Fitur apa saja yang tersedia di Sistem Informasi Pariwisata (SIPAR)?
 
 - Autentikasi Admin
 - User & CRUD
